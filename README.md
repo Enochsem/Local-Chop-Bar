@@ -1,5 +1,14 @@
 # localdishes
 
+Hey guy you can check out the Ui picture for this project in the main root directory,
+the names of the picture are 
+1. HomeScreen.png
+2. SevicesScreen.png
+
+
+
+
+
 A new Flutter application.
 
 ## Getting Started
@@ -14,3 +23,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
